@@ -78,9 +78,6 @@
     display: block;
 }
 
-
-/* Style the checkmark/indicator */
-
 .form-check-label .checkmark:after {
     left: 8px;
     top: 4px;
